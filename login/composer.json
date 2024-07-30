@@ -1,0 +1,17 @@
+{
+    "name": "nobody/login",
+    "autoload": {
+        "psr-4": {
+            "Nobody\\Login\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mamad",
+            "email": "mohamad.epic.k@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
